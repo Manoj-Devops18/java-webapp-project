@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: manoj-eta-container
-        image: manojdevops18/pl-java-web-app:latest
+        image: manojdevops18/pl-kdeploy_demo_app
         ports:
         - containerPort: 8080
 ---
